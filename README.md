@@ -15,11 +15,10 @@ O desenvolvedor não precisa se preocupar com a estética exata da interface do 
 | Figma: iPhone 15 Pro Max |
 
 # Meu Design - disponível em [FIGMA](https://www.figma.com/design/HKpYk6FmKSxpndbQOCSOBY/Atividade-Aula-7?node-id=0-1&t=nmOVuk8ksZiKvTnM-1)
-![Tela 1](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-
-
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
 
